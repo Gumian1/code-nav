@@ -3,7 +3,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-> 专业灵活的编程导航站，发现优质编程学习资源！微信公众号『 编程导航 』
+> 专业灵活的编程导航站，发现优质编程学习资源！微信公众号『 编程导航 』[sda](/assets/wechat.jpg)
 >
 > 另外一个项目：[免费编程资源大全](https://github.com/liyupi/free-programming-resources) ，对优质资源做了进一步整理！
 
